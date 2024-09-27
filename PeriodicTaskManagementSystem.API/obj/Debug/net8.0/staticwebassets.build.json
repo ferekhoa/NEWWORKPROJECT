@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yoLfpy9xpT+CMxfdX9zLuBZZqdYeRzLw5diRo/pIZoE=",
+  "Source": "PeriodicTaskManagementSystem.API",
+  "BasePath": "_content/PeriodicTaskManagementSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

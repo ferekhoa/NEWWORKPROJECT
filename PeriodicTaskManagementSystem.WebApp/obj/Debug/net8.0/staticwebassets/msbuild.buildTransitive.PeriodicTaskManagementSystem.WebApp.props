@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PeriodicTaskManagementSystem.WebApp.props" />
+</Project>
